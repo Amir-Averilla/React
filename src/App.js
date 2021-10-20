@@ -9,6 +9,11 @@ import 'firebase/analytics';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 
+
+
+
+
+
 firebase.initializeApp({
   apiKey: 'AIzaSyAyvwkmdni8c_dk2wkEqCAKQJVkD8ghStI',
   authDomain: 'project-2-5e162.firebaseapp.com',
